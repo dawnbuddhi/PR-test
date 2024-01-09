@@ -1,5 +1,5 @@
 {
-  "projectName": "displaymap",
+  "projectName": "displaymapper",
   "version": "3.1",
   "frontend": "javascript",
   "javascript": {
@@ -9,6 +9,7 @@
       "DistributionDir": "build",
       "BuildCommand": "npm run-script build",
       "StartCommand": "npm run-script start"
+
     }
   },
   "providers": [
